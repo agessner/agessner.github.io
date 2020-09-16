@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac6704c857daf9f2fade82ae7d86b764",
+    "revision": "c18c97b253cb2ec0edac9e8d96b535a6",
     "url": "/index.html"
   },
   {
-    "revision": "9a6769984219e616b299",
+    "revision": "36b040072f9104647e9c",
     "url": "/static/css/3.c7b31c95.chunk.css"
   },
   {
-    "revision": "98e60295904c71189b27",
+    "revision": "69337d679ff8b692c062",
     "url": "/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "90739fca56c7488508dc",
-    "url": "/static/css/main.91308f57.chunk.css"
+    "revision": "895cb584ff63f0e4ebe5",
+    "url": "/static/css/main.93be7b4d.chunk.css"
   },
   {
-    "revision": "a35081379fcc2afbad72",
-    "url": "/static/js/2.94db5210.chunk.js"
+    "revision": "dac51e06230dae082851",
+    "url": "/static/js/2.3aaac430.chunk.js"
   },
   {
-    "revision": "9a6769984219e616b299",
-    "url": "/static/js/3.d0385d9c.chunk.js"
+    "revision": "36b040072f9104647e9c",
+    "url": "/static/js/3.6f24bb36.chunk.js"
   },
   {
-    "revision": "98e60295904c71189b27",
-    "url": "/static/js/4.e4bd3bf5.chunk.js"
+    "revision": "69337d679ff8b692c062",
+    "url": "/static/js/4.5dd04350.chunk.js"
   },
   {
-    "revision": "90739fca56c7488508dc",
-    "url": "/static/js/main.f154cf52.chunk.js"
+    "revision": "895cb584ff63f0e4ebe5",
+    "url": "/static/js/main.1bb1fc1e.chunk.js"
   },
   {
-    "revision": "66b970b8d7195c3dd9d1",
-    "url": "/static/js/runtime-main.8f45e58d.js"
+    "revision": "1e492895dc31ef4e2403",
+    "url": "/static/js/runtime-main.5e4fbd2d.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -56,16 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fifastats.dbe72c35.png"
   },
   {
+    "revision": "5eb22e2f65ddf54f0dc0f4ffc0a522cc",
+    "url": "/static/media/instagramlogo.5eb22e2f.png"
+  },
+  {
     "revision": "25bf045ca257e971124f3997d89f321c",
     "url": "/static/media/logo.25bf045c.svg"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
-  },
-  {
-    "revision": "85c696b4b6c80082519d66f7aea08547",
-    "url": "/static/media/mercoslogo.85c696b4.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
